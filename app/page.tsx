@@ -55,9 +55,6 @@ export default function App() {
             <MysteryButton name={MysteryNameType.glorious} onClick={() => handleStartRosary(MysterySlugType.glorious)} />
           </div>
         </main>
-        <footer className="mt-8 text-sm text-gray-500 dark:text-gray-400">
-          <p>Pela intercessão da Virgem Maria.</p>
-        </footer>
       </div>
     </div>
   );
